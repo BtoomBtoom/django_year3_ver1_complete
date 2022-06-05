@@ -1,0 +1,2 @@
+cái này thì dùng nhiều cái api khác nhau cho từng mục đích một
+cái lệnh truy cập postgresSQL chưa cho vào class

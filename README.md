@@ -1,2 +1,2 @@
-# django_year3_ver1_complete
-ver1 django year3 complete
+# django_ver_1_year3
+django server ver1
